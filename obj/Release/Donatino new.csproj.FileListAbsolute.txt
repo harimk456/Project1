@@ -1,0 +1,6 @@
+C:\Users\harim\OneDrive\Documents\Visual Studio 2010\Projects\Donatino new\Donatino new\bin\Donatino new.dll
+C:\Users\harim\OneDrive\Documents\Visual Studio 2010\Projects\Donatino new\Donatino new\bin\Donatino new.pdb
+C:\Users\harim\OneDrive\Documents\Visual Studio 2010\Projects\Donatino new\Donatino new\obj\Release\Donatino new.csproj.AssemblyReference.cache
+C:\Users\harim\OneDrive\Documents\Visual Studio 2010\Projects\Donatino new\Donatino new\obj\Release\Donatino new.csproj.CoreCompileInputs.cache
+C:\Users\harim\OneDrive\Documents\Visual Studio 2010\Projects\Donatino new\Donatino new\obj\Release\Donatino new.dll
+C:\Users\harim\OneDrive\Documents\Visual Studio 2010\Projects\Donatino new\Donatino new\obj\Release\Donatino new.pdb
